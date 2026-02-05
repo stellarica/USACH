@@ -1,0 +1,10 @@
+ID,Coordenada x,Coordenada y,Clasificacion
+n/a,-10,-10,C
+08455-T,8,-4,E
+05467-X,10,3,R
+00345-C,9,9,E
+00224-T,1,10,E
+07742-C,-5,7,R
+n/a,-3,9,B
+n/a,5,6,B
+n/a,0,-2,B
